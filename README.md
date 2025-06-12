@@ -1,8 +1,8 @@
-# Public Grievance Redressal Platform
+# jansunwAI
 
 ## Overview
 
-**Public Grievance Redressal Platform** is an AI-powered system designed to enhance efficiency at both the client and administrative levels. The platform provides multilingual support, AI-assisted grievance classification, and intelligent analytics for administrators to streamline issue resolution.
+**jansunwAI** is an AI-powered system designed to enhance efficiency at both the client and administrative levels. The platform provides multilingual support, AI-assisted grievance classification, and intelligent analytics for administrators to streamline issue resolution.
 
 ## Features
 
