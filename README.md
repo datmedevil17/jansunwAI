@@ -1,6 +1,6 @@
 # JansunwAI
 
-_Winner HackOFiesta v6 AIspire - UP Hackathon (Best Social Impact)_
+_Winner HackOFiesta v6.0 AIspire - UP Hackathon (Best Social Impact)_
 
 ## Overview
 
